@@ -1,11 +1,14 @@
-### Hello_World 👋 , I'm Adrián Galinsoga
-<h2 align="center"> Gvlinsogv is a ✨ _special_ ✨ repository </h2>
+<h1 align= "center"> Hello_World 👋 , I'm Adrián Galinsoga </h1>
+
+
+<img width="244" align="center" alt="Captura_de_Pantalla_2023-09-19_a_las_10 54 41-removebg-preview" src="https://github.com/Gvlinsogv/Gvlinsogv/assets/116064067/c0155c1c-de3d-41d9-9d5d-7f9ed8ec2989">
+
+<h2> Gvlinsogv is a ✨ _special_ ✨ repository </h2>
 
 - 🌟 Desarrollador entusiasta.
 - 🚀 Apasionado por la programación y la innovación.
 - 🎓 Estudiante del Instituto Tecnológico de Barcelona en Desarrollo de Aplicaciones Multiplataforma(DAM).
 - 💡 Siempre en busca de aprender y mejorar mis habilidades.
-![lenguajes-programacion-top](https://github.com/Gvlinsogv/Gvlinsogv/assets/116064067/f6fe3de9-e603-48fa-b78d-941a77eee592)
 
 
 
