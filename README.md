@@ -34,23 +34,19 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 ![Lenguajes y Herramientas](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 
-# ¡Hola, soy [Tu Nombre]! 👋
-
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado por la tecnología y me encanta crear cosas asombrosas. Aquí encontrarás una breve descripción sobre mí y cómo contactarme en las redes sociales.
-
 
 ## Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombre&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gvlinsogv&show_icons=true&theme=dark)
 
 ## Conéctate Conmigo
 
 ¡No dudes en contactarme o seguirme en mis redes sociales!
 
-- [LinkedIn](https://www.linkedin.com/in/TuNombre)
-- [Twitter](https://twitter.com/TuNombre)
-- [Gmail]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+- Sitio Web: [www.proyectogenial.com](https://www.proyectogenial.com)
+- Email: contact@proyectogenial.com
+- Twitter: [@ProyectoGenial](https://twitter.com/ProyectoGenial)
+- Facebook: [ProyectoGenial](https://www.facebook.com/ProyectoGenial)
 
 <a href="https://twitter.com/clonalejandro11" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clonalejandro11" style="max-width: 100%;" width="40" height="30" align="middle"></a>
 <a href="https://www.linkedin.com/in/adrian-galinsoga-egea/" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-rios-calera-7b4457159" style="max-width: 100%;" width="40" height="30" align="middle"></a>
@@ -58,15 +54,8 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 
 
-¡Gracias por visitar mi perfil de GitHub! 😊
+<b>¡Gracias por visitar mi perfil de GitHub! 😊</b>
 
-## Contacto
 
-¿Tienes preguntas o sugerencias? ¡Contáctanos!
-
-- Sitio Web: [www.proyectogenial.com](https://www.proyectogenial.com)
-- Email: contact@proyectogenial.com
-- Twitter: [@ProyectoGenial](https://twitter.com/ProyectoGenial)
-- Facebook: [ProyectoGenial](https://www.facebook.com/ProyectoGenial)
 
 
