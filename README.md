@@ -43,12 +43,12 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 ¡No dudes en contactarme o seguirme en mis redes sociales!
 
-- Sitio Web: [www.proyectogenial.com](https://www.proyectogenial.com)
-- Email: contact@proyectogenial.com
-- Twitter: [@ProyectoGenial](https://twitter.com/ProyectoGenial)
-- Facebook: [ProyectoGenial](https://www.facebook.com/ProyectoGenial)
+- Sitio Web: [www.galinsoga.com](https://www.galinsoga.com)
+- Email: adrian.galinsoga.egea@gmail.com
+- Linkedin: [@adrian-galinsoga-egea](https://www.linkedin.com/in/adrian-galinsoga-egea)
+- Facebook: [Adrián Galinsoga](https://www.facebook.com/)
 
-<a href="https://twitter.com/clonalejandro11" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clonalejandro11" style="max-width: 100%;" width="40" height="30" align="middle"></a>
+<a href="https://twitter.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clonalejandro11" style="max-width: 100%;" width="40" height="30" align="middle"></a>
 <a href="https://www.linkedin.com/in/adrian-galinsoga-egea/" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-rios-calera-7b4457159" style="max-width: 100%;" width="40" height="30" align="middle"></a>
 <a href="https://instagram.com/4l3x.rc" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4l3x.rc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
 
