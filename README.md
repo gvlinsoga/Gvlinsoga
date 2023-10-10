@@ -37,7 +37,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 ## Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gvlinsogv&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gvlinsoga&show_icons=true&theme=dark)
 
 ## Conéctate Conmigo
 
